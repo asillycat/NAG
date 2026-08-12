@@ -1,3 +1,5 @@
+
+
 <div align="center">
 
 # NAG
@@ -96,7 +98,7 @@ pip install -e ".[analysis]"
 
 | Package | Version |
 | --- | --- |
-| Python | 3.10+ |
+| Python | 3.9+ |
 | torch | 2.6.0 |
 | transformers | 4.56.1 |
 | accelerate | 0.30+ |
